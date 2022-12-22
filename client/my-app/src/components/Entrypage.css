@@ -1,0 +1,32 @@
+.title{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    margin-top: 145px;
+}
+/* font-family: 'Bilbo Swash Caps', cursive;
+font-family: 'Epilogue', sans-serif; */
+h3{
+    font-family: 'Bilbo Swash Caps', cursive;;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 45px;
+}
+h1{
+    font-family: 'Bilbo Swash Caps', cursive;;
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 120px;
+text-align: center;
+margin: -15px 0 95px;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: inherit;
+    gap: 20px;
+    margin-top: 90px;
+}
